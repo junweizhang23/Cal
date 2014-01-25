@@ -18,5 +18,6 @@
     <string name="Sub">-</string>
     <string name="Mul">x</string>
     <string name="Div">/</string>
+    <string name="Eq">=</string>
 
 </resources>

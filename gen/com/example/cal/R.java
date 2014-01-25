@@ -24,8 +24,7 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int Result=0x7f080000;
-        public static final int action_settings=0x7f08000f;
+        public static final int action_settings=0x7f080010;
         public static final int b0=0x7f08000d;
         public static final int b1=0x7f080001;
         public static final int b2=0x7f080002;
@@ -38,8 +37,10 @@ public final class R {
         public static final int b9=0x7f08000b;
         public static final int badd=0x7f080004;
         public static final int bdiv=0x7f08000e;
+        public static final int beq=0x7f08000f;
         public static final int bmul=0x7f08000c;
         public static final int bsub=0x7f080008;
+        public static final int result=0x7f080000;
     }
     public static final class layout {
         public static final int activity_cal=0x7f030000;
@@ -51,6 +52,7 @@ public final class R {
         public static final int Add=0x7f05000d;
         public static final int Div=0x7f050010;
         public static final int Eight=0x7f05000b;
+        public static final int Eq=0x7f050011;
         public static final int Five=0x7f050009;
         public static final int Four=0x7f050008;
         public static final int Mul=0x7f05000f;
